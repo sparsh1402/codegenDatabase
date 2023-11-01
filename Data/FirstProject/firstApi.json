@@ -1,0 +1,29 @@
+[
+  {
+    "name": "harmony",
+    "displayName": {
+      "empty": true,
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "type": "project",
+    "author": [
+      {
+        "user": "string",
+        "role": "createdby"
+      }
+    ],
+    "history": [
+      {
+        "version": "string",
+        "author": {
+          "user": "string",
+          "role": "createdby"
+        },
+        "description": "string"
+      }
+    ],
+    "subType": "schema"
+  }
+]
